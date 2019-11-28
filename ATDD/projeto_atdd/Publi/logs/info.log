@@ -1,0 +1,71 @@
+Info: : 1003 mini-second(s) publishing element CustomCategory:category[projeto_atdd\customcategories\category_1B8330B3.html]
+Info: CustomCategory:category: 1007 mini seconds publishing element
+Info: CustomCategory:roles: 41 mini seconds publishing element
+Info: : 1102 mini-second(s) publishing element Role:equipe_multifuncional[projeto_atdd\roles\equipe_multifuncional_77B434C0.html]
+Info: Role:equipe_multifuncional: 1104 mini seconds publishing element
+Info: Role:product_owner: 94 mini seconds publishing element
+Info: Role:equipe_multifuncional: 91 mini seconds publishing element
+Info: Role:outro: 62 mini seconds publishing element
+Info: Role:product_owner: 68 mini seconds publishing element
+Info: Role:equipe_multifuncional: 50 mini seconds publishing element
+Info: Role:equipe_multifuncional: 91 mini seconds publishing element
+Info: CustomCategory:task: 525 mini seconds publishing element
+Info: Task:verificar_a_historia: 655 mini seconds publishing element
+Info: Task:historias_de_usuario: 26 mini seconds publishing element
+Info: Task:testes_unitarios: 26 mini seconds publishing element
+Info: Task:organizar_os_testes_de_aceitacao: 44 mini seconds publishing element
+Info: CustomCategory:inputs: 27 mini seconds publishing element
+Info: Artifact:testes_realizados: 582 mini seconds publishing element
+Info: Artifact:perguntas: 20 mini seconds publishing element
+Info: Artifact:condicoes_propostas: 33 mini seconds publishing element
+Info: Artifact:expectativas_existentes: 23 mini seconds publishing element
+Info: Artifact:historia_de_usuario: 23 mini seconds publishing element
+Info: CustomCategory:outputs: 17 mini seconds publishing element
+Info: Outcome:alteracao_nos_testes_existentes: 566 mini seconds publishing element
+Info: Outcome:nova_historia: 33 mini seconds publishing element
+Info: Outcome:historia_de_usuario: 20 mini seconds publishing element
+Info: Outcome:testes_executados: 21 mini seconds publishing element
+Info: Outcome:teste_automatizado: 23 mini seconds publishing element
+Info: CustomCategory:ciclo: 16 mini seconds publishing element
+Info: : 5751 mini-second(s) publishing element DeliveryProcess:ciclo[projeto_atdd\deliveryprocesses\ciclo_C44856B.html]
+Info: DeliveryProcess:ciclo: 5752 mini seconds publishing element
+Info: DeliveryProcess:ciclo: 1307 mini seconds publishing process specific layout data
+Info: CapabilityPattern:Apresentar os resultados dos testes de aceitação: 292 mini seconds publishing element
+Info: CapabilityPattern:Debater os Requisitos: 311 mini seconds publishing element
+Info: CapabilityPattern:Implementar o código: 265 mini seconds publishing element
+Info: CapabilityPattern:Refinar os Testes de Aceitação: 289 mini seconds publishing element
+Info: CustomCategory:apresentar_os_resultados_dos_testes_de_aceitacao: 24 mini seconds publishing element
+Info: CustomCategory:debater_os_requisitos: 15 mini seconds publishing element
+Info: CustomCategory:implementar_o_codigo: 15 mini seconds publishing element
+Info: CustomCategory:refinar_os_testes_de_aceitacao: 14 mini seconds publishing element
+Info: CustomCategory:capability_patterns: 21 mini seconds publishing element
+Info: CapabilityPattern:Apresentar os resultados dos testes de aceitação: 415 mini seconds publishing element
+Info: CapabilityPattern:Apresentar os resultados dos testes de aceitação: 7 mini seconds publishing process specific layout data
+Info: CapabilityPattern:Debater os Requisitos: 110 mini seconds publishing element
+Info: CapabilityPattern:Debater os Requisitos: 6 mini seconds publishing process specific layout data
+Info: CapabilityPattern:Implementar o código: 99 mini seconds publishing element
+Info: CapabilityPattern:Implementar o código: 5 mini seconds publishing process specific layout data
+Info: CapabilityPattern:Refinar os Testes de Aceitação: 107 mini seconds publishing element
+Info: CapabilityPattern:Refinar os Testes de Aceitação: 5 mini seconds publishing process specific layout data
+Info: TaskDescriptor:verificar_a_historia: 415 mini seconds publishing element
+Info: TaskDescriptor:historias_de_usuario: 24 mini seconds publishing element
+Info: TaskDescriptor:testes_unitarios: 23 mini seconds publishing element
+Info: TaskDescriptor:organizar_os_testes_de_aceitacao: 22 mini seconds publishing element
+Info: RoleDescriptor:equipe_multifuncional: 424 mini seconds publishing element
+Info: RoleDescriptor:equipe_multifuncional: 20 mini seconds publishing element
+Info: RoleDescriptor:equipe_multifuncional: 27 mini seconds publishing element
+Info: RoleDescriptor:outro: 20 mini seconds publishing element
+Info: RoleDescriptor:product_owner: 26 mini seconds publishing element
+Info: RoleDescriptor:product_owner: 21 mini seconds publishing element
+Info: WorkProductDescriptor:alteracao_nos_testes_existentes: 550 mini seconds publishing element
+Info: WorkProductDescriptor:condicoes_propostas: 18 mini seconds publishing element
+Info: WorkProductDescriptor:expectativas_existentes: 17 mini seconds publishing element
+Info: WorkProductDescriptor:historia_de_usuario: 20 mini seconds publishing element
+Info: WorkProductDescriptor:historia_de_usuario: 17 mini seconds publishing element
+Info: WorkProductDescriptor:nova_historia: 20 mini seconds publishing element
+Info: WorkProductDescriptor:perguntas: 18 mini seconds publishing element
+Info: WorkProductDescriptor:teste_automatizado: 41 mini seconds publishing element
+Info: WorkProductDescriptor:testes_executados: 25 mini seconds publishing element
+Info: WorkProductDescriptor:testes_realizados: 26 mini seconds publishing element
+Info: RoleDescriptor:equipe_multifuncional: 24 mini seconds publishing element
+Info: : Publishing time: 0 minutes 18 seconds

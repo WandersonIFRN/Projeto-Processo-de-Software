@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_oi-YsBA5EeqLiqRqsqRnPA" guid="_oi-YsBA5EeqLiqRqsqRnPA">
+    <resourceDescriptors xmi:id="_oi-YsRA5EeqLiqRqsqRnPA" id="-hhyp9DFDuEee4cXcENqBJQ" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_oiLHcBA5EeqLiqRqsqRnPA" name="Refinar os Testes de Aceitação" guid="_oiLHcBA5EeqLiqRqsqRnPA">
+    <methodElementProperty xmi:id="_oiLHchA5EeqLiqRqsqRnPA" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_qx4gQBA5EeqLiqRqsqRnPA" name="me_edited" value="true"/>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_s6vqMBA5EeqLiqRqsqRnPA" name="organizar_os_testes_de_aceitacao" guid="_s6vqMBA5EeqLiqRqsqRnPA" presentationName="organizar os testes de aceitação" briefDescription="organizar os testes de aceitação em um formato requerido pelo framework de automação de testes." superActivities="_oiLHcRA5EeqLiqRqsqRnPA" mandatoryInput="_s6xfYBA5EeqLiqRqsqRnPA" output="_s6xfYhA5EeqLiqRqsqRnPA" performedPrimarilyBy="_s6w4UBA5EeqLiqRqsqRnPA">
+      <methodElementProperty xmi:id="_s60isBA5EeqLiqRqsqRnPA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <Task href="uma://_Dc80cA-NEeqY9ph1n-Gm4g#__RZV0A-TEeqY9ph1n-Gm4g"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_s6w4UBA5EeqLiqRqsqRnPA" name="equipe_multifuncional" guid="_s6w4UBA5EeqLiqRqsqRnPA" presentationName="equipe multifuncional" briefDescription="equipe de desenvolvedores" isPlanned="false" superActivities="_oiLHcRA5EeqLiqRqsqRnPA" modifies="_s6xfYhA5EeqLiqRqsqRnPA">
+      <methodElementProperty xmi:id="_s6w4URA5EeqLiqRqsqRnPA" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_s640IBA5EeqLiqRqsqRnPA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <Role href="uma://_Dc80cA-NEeqY9ph1n-Gm4g#_IYQMoA-UEeqY9ph1n-Gm4g"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_s6xfYBA5EeqLiqRqsqRnPA" name="historia_de_usuario" guid="_s6xfYBA5EeqLiqRqsqRnPA" presentationName="historia de usuario" isPlanned="false" superActivities="_oiLHcRA5EeqLiqRqsqRnPA">
+      <methodElementProperty xmi:id="_s6xfYRA5EeqLiqRqsqRnPA" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_s63mABA5EeqLiqRqsqRnPA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <WorkProduct href="uma://_Dc80cA-NEeqY9ph1n-Gm4g#_KX2F0A-UEeqY9ph1n-Gm4g"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_s6xfYhA5EeqLiqRqsqRnPA" name="teste_automatizado" guid="_s6xfYhA5EeqLiqRqsqRnPA" presentationName="teste automatizado" briefDescription="teste automatizado para framework" isPlanned="false" superActivities="_oiLHcRA5EeqLiqRqsqRnPA">
+      <methodElementProperty xmi:id="_s6xfYxA5EeqLiqRqsqRnPA" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_s61w0BA5EeqLiqRqsqRnPA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <WorkProduct href="uma://_Dc80cA-NEeqY9ph1n-Gm4g#_RhrPQA-UEeqY9ph1n-Gm4g"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_oiLHcRA5EeqLiqRqsqRnPA" name="Refinar os Testes de Aceitação" guid="_oiLHcRA5EeqLiqRqsqRnPA" presentationName="Refinar os Testes de Aceitação" briefDescription="organizar os testes de aceitação em um formato requerido pelo framework de automação de testes." breakdownElements="_s6vqMBA5EeqLiqRqsqRnPA _s6w4UBA5EeqLiqRqsqRnPA _s6xfYBA5EeqLiqRqsqRnPA _s6xfYhA5EeqLiqRqsqRnPA">
+      <presentation xmi:id="-hhyp9DFDuEee4cXcENqBJQ" href="uma://-hhyp9DFDuEee4cXcENqBJQ#-hhyp9DFDuEee4cXcENqBJQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

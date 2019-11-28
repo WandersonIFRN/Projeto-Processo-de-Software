@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_5srroBA5EeqLiqRqsqRnPA" guid="_5srroBA5EeqLiqRqsqRnPA">
+    <resourceDescriptors xmi:id="_5srroRA5EeqLiqRqsqRnPA" id="-w50K61LPeVyy4SaKDENNRw" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_5r62oBA5EeqLiqRqsqRnPA" name="Apresentar os resultados dos testes de aceitação" guid="_5r62oBA5EeqLiqRqsqRnPA">
+    <methodElementProperty xmi:id="_5r62ohA5EeqLiqRqsqRnPA" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_9j7qABA5EeqLiqRqsqRnPA" name="me_edited" value="true"/>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_8xzpgBA5EeqLiqRqsqRnPA" name="verificar_a_historia" guid="_8xzpgBA5EeqLiqRqsqRnPA" presentationName="Verificar a História" briefDescription="normalmente em uma reunião de Review/Showcase, onde ela poderá ser aprovada ou não." superActivities="_5r62oRA5EeqLiqRqsqRnPA" additionallyPerformedBy="_8x1esRA5EeqLiqRqsqRnPA" mandatoryInput="_8x1esxA5EeqLiqRqsqRnPA" output="_8x2FwRA5EeqLiqRqsqRnPA _8x2FwxA5EeqLiqRqsqRnPA" performedPrimarilyBy="_8x03oBA5EeqLiqRqsqRnPA">
+      <methodElementProperty xmi:id="_8x6XMBA5EeqLiqRqsqRnPA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <Task href="uma://_Dc80cA-NEeqY9ph1n-Gm4g#_Z8OukBA1EeqLiqRqsqRnPA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_8x03oBA5EeqLiqRqsqRnPA" name="product_owner" guid="_8x03oBA5EeqLiqRqsqRnPA" presentationName="Product Owner" isPlanned="false" superActivities="_5r62oRA5EeqLiqRqsqRnPA" modifies="_8x2FwRA5EeqLiqRqsqRnPA _8x2FwxA5EeqLiqRqsqRnPA">
+      <methodElementProperty xmi:id="_8x1esBA5EeqLiqRqsqRnPA" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8x-BkBA5EeqLiqRqsqRnPA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <Role href="uma://_Dc80cA-NEeqY9ph1n-Gm4g#_WoLj4RA1EeqLiqRqsqRnPA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_8x1esRA5EeqLiqRqsqRnPA" name="equipe_multifuncional" guid="_8x1esRA5EeqLiqRqsqRnPA" presentationName="equipe multifuncional" briefDescription="equipe de desenvolvedores" isPlanned="false" superActivities="_5r62oRA5EeqLiqRqsqRnPA">
+      <methodElementProperty xmi:id="_8x1eshA5EeqLiqRqsqRnPA" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8x_2wBA5EeqLiqRqsqRnPA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <Role href="uma://_Dc80cA-NEeqY9ph1n-Gm4g#_WoLj4BA1EeqLiqRqsqRnPA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8x1esxA5EeqLiqRqsqRnPA" name="testes_realizados" guid="_8x1esxA5EeqLiqRqsqRnPA" presentationName="testes realizados" briefDescription="testes que passaram com sucesso pela fase de Implementar o código." isPlanned="false" superActivities="_5r62oRA5EeqLiqRqsqRnPA">
+      <methodElementProperty xmi:id="_8x2FwBA5EeqLiqRqsqRnPA" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8yC6EBA5EeqLiqRqsqRnPA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <WorkProduct href="uma://_Dc80cA-NEeqY9ph1n-Gm4g#_ENSgcBA2EeqLiqRqsqRnPA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8x2FwRA5EeqLiqRqsqRnPA" name="alteracao_nos_testes_existentes" guid="_8x2FwRA5EeqLiqRqsqRnPA" presentationName="alteração nos testes existentes" isPlanned="false" superActivities="_5r62oRA5EeqLiqRqsqRnPA">
+      <methodElementProperty xmi:id="_8x2FwhA5EeqLiqRqsqRnPA" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8yBE4BA5EeqLiqRqsqRnPA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <WorkProduct href="uma://_Dc80cA-NEeqY9ph1n-Gm4g#_YSU8EBA2EeqLiqRqsqRnPA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_8x2FwxA5EeqLiqRqsqRnPA" name="nova_historia" guid="_8x2FwxA5EeqLiqRqsqRnPA" presentationName="nova história" briefDescription="resultado pode levar à criação de uma nova história" isPlanned="false" superActivities="_5r62oRA5EeqLiqRqsqRnPA">
+      <methodElementProperty xmi:id="_8x2FxBA5EeqLiqRqsqRnPA" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_8x8MYBA5EeqLiqRqsqRnPA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <WorkProduct href="uma://_Dc80cA-NEeqY9ph1n-Gm4g#_RyjcQBA2EeqLiqRqsqRnPA"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_5r62oRA5EeqLiqRqsqRnPA" name="Apresentar os resultados dos testes de aceitação" guid="_5r62oRA5EeqLiqRqsqRnPA" presentationName="Apresentar os resultados dos testes de aceitação" briefDescription="Após os testes passarem com sucesso, a história é verificada pelo Product Owner, normalmente em uma reunião de Review/Showcase, onde ele poderá aprová-la ou não." breakdownElements="_8xzpgBA5EeqLiqRqsqRnPA _8x03oBA5EeqLiqRqsqRnPA _8x1esRA5EeqLiqRqsqRnPA _8x1esxA5EeqLiqRqsqRnPA _8x2FwRA5EeqLiqRqsqRnPA _8x2FwxA5EeqLiqRqsqRnPA">
+      <presentation xmi:id="-w50K61LPeVyy4SaKDENNRw" href="uma://-w50K61LPeVyy4SaKDENNRw#-w50K61LPeVyy4SaKDENNRw"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

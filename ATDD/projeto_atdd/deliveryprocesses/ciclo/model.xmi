@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_maTmkBA6EeqLiqRqsqRnPA" guid="_maTmkBA6EeqLiqRqsqRnPA">
+    <resourceDescriptors xmi:id="_maTmkRA6EeqLiqRqsqRnPA" id="-crD7UiWSAzI9aQUfs-Kbkw" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_mY87sBA6EeqLiqRqsqRnPA" name="ciclo" guid="_mY87sBA6EeqLiqRqsqRnPA">
+    <methodElementProperty xmi:id="_mY87shA6EeqLiqRqsqRnPA" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_tqdvkBA8EeqLiqRqsqRnPA" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_YZpdUBA8EeqLiqRqsqRnPA" name="Apresentar os resultados dos testes de aceitação" guid="_YZpdUBA8EeqLiqRqsqRnPA">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_YZpdURA8EeqLiqRqsqRnPA" name="Apresentar os resultados dos testes de aceitação" guid="_YZpdURA8EeqLiqRqsqRnPA" superActivities="_mY87sRA6EeqLiqRqsqRnPA" linkToPredecessor="_8YAiEBA8EeqLiqRqsqRnPA" variabilityType="extends">
+        <methodElementProperty xmi:id="_AOiAUhBAEeqLiqRqsqRnPA" name="publish_ad" value="true"/>
+        <methodElementProperty xmi:id="_AOinYBBAEeqLiqRqsqRnPA" name="publish_add" value="true"/>
+        <methodElementProperty xmi:id="_AOinYRBAEeqLiqRqsqRnPA" name="publish_wpdd" value="true"/>
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_5r62oBA5EeqLiqRqsqRnPA#_5r62oRA5EeqLiqRqsqRnPA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_8YAiEBA8EeqLiqRqsqRnPA" guid="_8YAiEBA8EeqLiqRqsqRnPA" pred="_ailfwBA8EeqLiqRqsqRnPA"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_ZWAX4BA8EeqLiqRqsqRnPA" name="Debater os Requisitos" guid="_ZWAX4BA8EeqLiqRqsqRnPA">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_ZWHFkBA8EeqLiqRqsqRnPA" name="Debater os Requisitos" guid="_ZWHFkBA8EeqLiqRqsqRnPA" superActivities="_mY87sRA6EeqLiqRqsqRnPA" variabilityType="extends">
+        <methodElementProperty xmi:id="_AOjOcBBAEeqLiqRqsqRnPA" name="publish_ad" value="true"/>
+        <methodElementProperty xmi:id="_AOjOcRBAEeqLiqRqsqRnPA" name="publish_add" value="true"/>
+        <methodElementProperty xmi:id="_AOj1gBBAEeqLiqRqsqRnPA" name="publish_wpdd" value="true"/>
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_Y-1VYBA5EeqLiqRqsqRnPA#_Y-1VYRA5EeqLiqRqsqRnPA"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_aik4sBA8EeqLiqRqsqRnPA" name="Implementar o código" guid="_aik4sBA8EeqLiqRqsqRnPA">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_ailfwBA8EeqLiqRqsqRnPA" name="Implementar o código" guid="_ailfwBA8EeqLiqRqsqRnPA" superActivities="_mY87sRA6EeqLiqRqsqRnPA" linkToPredecessor="_i7yw8BA9EeqLiqRqsqRnPA" variabilityType="extends">
+        <methodElementProperty xmi:id="_AOj1gRBAEeqLiqRqsqRnPA" name="publish_ad" value="true"/>
+        <methodElementProperty xmi:id="_AOkckBBAEeqLiqRqsqRnPA" name="publish_add" value="true"/>
+        <methodElementProperty xmi:id="_AOkckRBAEeqLiqRqsqRnPA" name="publish_wpdd" value="true"/>
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_w3-70BA5EeqLiqRqsqRnPA#_w3-70RA5EeqLiqRqsqRnPA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_i7yw8BA9EeqLiqRqsqRnPA" guid="_i7yw8BA9EeqLiqRqsqRnPA" pred="_bgerYRA8EeqLiqRqsqRnPA"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_bgerYBA8EeqLiqRqsqRnPA" name="Refinar os Testes de Aceitação" guid="_bgerYBA8EeqLiqRqsqRnPA">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_bgerYRA8EeqLiqRqsqRnPA" name="Refinar os Testes de Aceitação" guid="_bgerYRA8EeqLiqRqsqRnPA" superActivities="_mY87sRA6EeqLiqRqsqRnPA" linkToPredecessor="_nTCeABA9EeqLiqRqsqRnPA" variabilityType="extends">
+        <methodElementProperty xmi:id="_AOlDoBBAEeqLiqRqsqRnPA" name="publish_ad" value="true"/>
+        <methodElementProperty xmi:id="_AOlDoRBAEeqLiqRqsqRnPA" name="publish_add" value="true"/>
+        <methodElementProperty xmi:id="_AOlDohBAEeqLiqRqsqRnPA" name="publish_wpdd" value="true"/>
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_oiLHcBA5EeqLiqRqsqRnPA#_oiLHcRA5EeqLiqRqsqRnPA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_nTCeABA9EeqLiqRqsqRnPA" guid="_nTCeABA9EeqLiqRqsqRnPA" pred="_ZWHFkBA8EeqLiqRqsqRnPA"/>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_mY87sRA6EeqLiqRqsqRnPA" name="ciclo" guid="_mY87sRA6EeqLiqRqsqRnPA" presentationName="ciclo" breakdownElements="_YZpdURA8EeqLiqRqsqRnPA _ZWHFkBA8EeqLiqRqsqRnPA _ailfwBA8EeqLiqRqsqRnPA _bgerYRA8EeqLiqRqsqRnPA">
+      <methodElementProperty xmi:id="_AOhZQBBAEeqLiqRqsqRnPA" name="publish_ad" value="true"/>
+      <methodElementProperty xmi:id="_AOiAUBBAEeqLiqRqsqRnPA" name="publish_add" value="true"/>
+      <methodElementProperty xmi:id="_AOiAURBAEeqLiqRqsqRnPA" name="publish_wpdd" value="true"/>
+      <presentation xmi:id="-crD7UiWSAzI9aQUfs-Kbkw" href="uma://-crD7UiWSAzI9aQUfs-Kbkw#-crD7UiWSAzI9aQUfs-Kbkw"/>
+      <includesPatterns href="uma://_5r62oBA5EeqLiqRqsqRnPA#_5r62oRA5EeqLiqRqsqRnPA"/>
+      <includesPatterns href="uma://_Y-1VYBA5EeqLiqRqsqRnPA#_Y-1VYRA5EeqLiqRqsqRnPA"/>
+      <includesPatterns href="uma://_w3-70BA5EeqLiqRqsqRnPA#_w3-70RA5EeqLiqRqsqRnPA"/>
+      <includesPatterns href="uma://_oiLHcBA5EeqLiqRqsqRnPA#_oiLHcRA5EeqLiqRqsqRnPA"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>
