@@ -1,71 +1,111 @@
-Info: : 1199 mini-second(s) publishing element CustomCategory:category[projeto_atdd\customcategories\category_1B8330B3.html]
-Info: CustomCategory:category: 1201 mini seconds publishing element
-Info: CustomCategory:roles: 26 mini seconds publishing element
-Info: : 1209 mini-second(s) publishing element Role:equipe_multifuncional[projeto_atdd\roles\equipe_multifuncional_77B434C0.html]
-Info: Role:equipe_multifuncional: 1212 mini seconds publishing element
-Info: Role:product_owner: 94 mini seconds publishing element
-Info: Role:equipe_multifuncional: 91 mini seconds publishing element
-Info: Role:outro: 62 mini seconds publishing element
-Info: Role:product_owner: 66 mini seconds publishing element
-Info: Role:equipe_multifuncional: 68 mini seconds publishing element
-Info: Role:equipe_multifuncional: 187 mini seconds publishing element
-Info: CustomCategory:task: 123 mini seconds publishing element
-Info: Task:verificar_a_historia: 625 mini seconds publishing element
-Info: Task:historias_de_usuario: 29 mini seconds publishing element
-Info: Task:testes_unitarios: 25 mini seconds publishing element
-Info: Task:organizar_os_testes_de_aceitacao: 23 mini seconds publishing element
-Info: CustomCategory:inputs: 20 mini seconds publishing element
-Info: Artifact:testes_realizados: 534 mini seconds publishing element
-Info: Artifact:perguntas: 22 mini seconds publishing element
-Info: Artifact:condicoes_propostas: 24 mini seconds publishing element
-Info: Artifact:expectativas_existentes: 22 mini seconds publishing element
-Info: Artifact:historia_de_usuario: 24 mini seconds publishing element
-Info: CustomCategory:outputs: 16 mini seconds publishing element
-Info: Outcome:alteracao_nos_testes_existentes: 541 mini seconds publishing element
-Info: Outcome:nova_historia: 18 mini seconds publishing element
-Info: Outcome:historia_de_usuario: 20 mini seconds publishing element
-Info: Outcome:testes_executados: 18 mini seconds publishing element
-Info: Outcome:teste_automatizado: 18 mini seconds publishing element
-Info: CustomCategory:ciclo: 15 mini seconds publishing element
-Info: : 2116 mini-second(s) publishing element DeliveryProcess:ciclo[projeto_atdd\deliveryprocesses\ciclo_C44856B.html]
-Info: DeliveryProcess:ciclo: 2118 mini seconds publishing element
-Info: DeliveryProcess:ciclo: 32 mini seconds publishing process specific layout data
-Info: CapabilityPattern:Apresentar os resultados dos testes de aceitação: 172 mini seconds publishing element
-Info: CapabilityPattern:Debater os Requisitos: 133 mini seconds publishing element
-Info: CapabilityPattern:Implementar o código: 129 mini seconds publishing element
-Info: CapabilityPattern:Refinar os Testes de Aceitação: 142 mini seconds publishing element
-Info: CustomCategory:apresentar_os_resultados_dos_testes_de_aceitacao: 15 mini seconds publishing element
-Info: CustomCategory:debater_os_requisitos: 14 mini seconds publishing element
-Info: CustomCategory:implementar_o_codigo: 21 mini seconds publishing element
-Info: CustomCategory:refinar_os_testes_de_aceitacao: 14 mini seconds publishing element
-Info: CustomCategory:capability_patterns: 22 mini seconds publishing element
-Info: CapabilityPattern:Apresentar os resultados dos testes de aceitação: 139 mini seconds publishing element
-Info: CapabilityPattern:Apresentar os resultados dos testes de aceitação: 7 mini seconds publishing process specific layout data
-Info: CapabilityPattern:Debater os Requisitos: 144 mini seconds publishing element
-Info: CapabilityPattern:Debater os Requisitos: 7 mini seconds publishing process specific layout data
-Info: CapabilityPattern:Implementar o código: 95 mini seconds publishing element
-Info: CapabilityPattern:Implementar o código: 6 mini seconds publishing process specific layout data
-Info: CapabilityPattern:Refinar os Testes de Aceitação: 96 mini seconds publishing element
-Info: CapabilityPattern:Refinar os Testes de Aceitação: 7 mini seconds publishing process specific layout data
-Info: TaskDescriptor:verificar_a_historia: 446 mini seconds publishing element
-Info: TaskDescriptor:historias_de_usuario: 25 mini seconds publishing element
-Info: TaskDescriptor:testes_unitarios: 23 mini seconds publishing element
-Info: TaskDescriptor:organizar_os_testes_de_aceitacao: 24 mini seconds publishing element
-Info: RoleDescriptor:equipe_multifuncional: 464 mini seconds publishing element
-Info: RoleDescriptor:equipe_multifuncional: 20 mini seconds publishing element
-Info: RoleDescriptor:equipe_multifuncional: 22 mini seconds publishing element
-Info: RoleDescriptor:outro: 18 mini seconds publishing element
-Info: RoleDescriptor:product_owner: 22 mini seconds publishing element
-Info: RoleDescriptor:product_owner: 32 mini seconds publishing element
-Info: WorkProductDescriptor:alteracao_nos_testes_existentes: 540 mini seconds publishing element
-Info: WorkProductDescriptor:condicoes_propostas: 19 mini seconds publishing element
-Info: WorkProductDescriptor:expectativas_existentes: 17 mini seconds publishing element
-Info: WorkProductDescriptor:historia_de_usuario: 20 mini seconds publishing element
-Info: WorkProductDescriptor:historia_de_usuario: 22 mini seconds publishing element
-Info: WorkProductDescriptor:nova_historia: 21 mini seconds publishing element
-Info: WorkProductDescriptor:perguntas: 17 mini seconds publishing element
-Info: WorkProductDescriptor:teste_automatizado: 37 mini seconds publishing element
+Info: CapabilityPattern:ATDD: 468 mini seconds publishing element
+Info: CapabilityPattern:ATDD: 1263 mini seconds publishing process specific layout data
+Info: Phase:Apresentar: 359 mini seconds publishing element
+Info: Task:verificar_a_historia: 47 mini seconds publishing element
+Info: TaskDescriptor:verificar_a_historia: 15 mini seconds publishing element
+Info: Role:product_owner: 63 mini seconds publishing element
+Info: RoleDescriptor:product_owner: 15 mini seconds publishing element
+Info: Role:equipe_multifuncional: 63 mini seconds publishing element
+Info: RoleDescriptor:equipe_multifuncional: 15 mini seconds publishing element
+Info: Artifact:testes_realizados: 32 mini seconds publishing element
+Info: WorkProductDescriptor:testes_realizados: 15 mini seconds publishing element
+Info: Outcome:alteracao_nos_testes_existentes: 31 mini seconds publishing element
+Info: WorkProductDescriptor:alteracao_nos_testes_existentes: 16 mini seconds publishing element
+Info: Outcome:nova_historia: 31 mini seconds publishing element
+Info: WorkProductDescriptor:nova_historia: 16 mini seconds publishing element
+Info: Phase:Debater: 515 mini seconds publishing element
+Info: Task:historias_de_usuario: 46 mini seconds publishing element
+Info: TaskDescriptor:historias_de_usuario: 0 mini seconds publishing element
+Info: Role:equipe_multifuncional: 78 mini seconds publishing element
+Info: RoleDescriptor:equipe_multifuncional: 16 mini seconds publishing element
+Info: Role:product_owner: 78 mini seconds publishing element
+Info: RoleDescriptor:product_owner: 0 mini seconds publishing element
+Info: Role:outro: 46 mini seconds publishing element
+Info: RoleDescriptor:outro: 0 mini seconds publishing element
+Info: Artifact:perguntas: 47 mini seconds publishing element
+Info: WorkProductDescriptor:perguntas: 0 mini seconds publishing element
+Info: Outcome:historia_de_usuario: 31 mini seconds publishing element
+Info: WorkProductDescriptor:historia_de_usuario: 16 mini seconds publishing element
+Info: Phase:Implementar: 312 mini seconds publishing element
+Info: Task:testes_unitarios: 31 mini seconds publishing element
+Info: TaskDescriptor:testes_unitarios: 16 mini seconds publishing element
+Info: Role:equipe_multifuncional: 93 mini seconds publishing element
+Info: RoleDescriptor:equipe_multifuncional: 16 mini seconds publishing element
+Info: Artifact:condicoes_propostas: 31 mini seconds publishing element
+Info: WorkProductDescriptor:condicoes_propostas: 16 mini seconds publishing element
+Info: Artifact:expectativas_existentes: 31 mini seconds publishing element
+Info: WorkProductDescriptor:expectativas_existentes: 0 mini seconds publishing element
+Info: Outcome:testes_executados: 31 mini seconds publishing element
+Info: WorkProductDescriptor:testes_executados: 16 mini seconds publishing element
+Info: Phase:Refinar: 265 mini seconds publishing element
+Info: Task:organizar_os_testes_de_aceitacao: 31 mini seconds publishing element
+Info: TaskDescriptor:organizar_os_testes_de_aceitacao: 16 mini seconds publishing element
+Info: RoleDescriptor:equipe_multifuncional: 15 mini seconds publishing element
+Info: Artifact:historia_de_usuario: 32 mini seconds publishing element
+Info: WorkProductDescriptor:historia_de_usuario: 0 mini seconds publishing element
+Info: Outcome:teste_automatizado: 31 mini seconds publishing element
+Info: WorkProductDescriptor:teste_automatizado: 15 mini seconds publishing element
+Info: CapabilityPattern:apresentar: 297 mini seconds publishing element
+Info: CapabilityPattern:apresentar: 171 mini seconds publishing process specific layout data
+Info: TaskDescriptor:verificar_a_historia: 0 mini seconds publishing element
+Info: RoleDescriptor:product_owner: 16 mini seconds publishing element
+Info: RoleDescriptor:equipe_multifuncional: 0 mini seconds publishing element
+Info: WorkProductDescriptor:testes_realizados: 16 mini seconds publishing element
+Info: WorkProductDescriptor:alteracao_nos_testes_existentes: 0 mini seconds publishing element
+Info: WorkProductDescriptor:nova_historia: 0 mini seconds publishing element
+Info: CapabilityPattern:Debater: 406 mini seconds publishing element
+Info: CapabilityPattern:Debater: 296 mini seconds publishing process specific layout data
+Info: TaskDescriptor:historias_de_usuario: 16 mini seconds publishing element
+Info: RoleDescriptor:equipe_multifuncional: 0 mini seconds publishing element
+Info: RoleDescriptor:product_owner: 15 mini seconds publishing element
+Info: RoleDescriptor:outro: 0 mini seconds publishing element
+Info: WorkProductDescriptor:perguntas: 16 mini seconds publishing element
+Info: WorkProductDescriptor:historia_de_usuario: 0 mini seconds publishing element
+Info: CapabilityPattern:Implementar: 265 mini seconds publishing element
+Info: CapabilityPattern:Implementar: 141 mini seconds publishing process specific layout data
+Info: TaskDescriptor:testes_unitarios: 15 mini seconds publishing element
+Info: RoleDescriptor:equipe_multifuncional: 0 mini seconds publishing element
+Info: WorkProductDescriptor:condicoes_propostas: 16 mini seconds publishing element
+Info: WorkProductDescriptor:expectativas_existentes: 0 mini seconds publishing element
+Info: WorkProductDescriptor:testes_executados: 15 mini seconds publishing element
+Info: CapabilityPattern:Refinar: 266 mini seconds publishing element
+Info: CapabilityPattern:Refinar: 171 mini seconds publishing process specific layout data
+Info: TaskDescriptor:organizar_os_testes_de_aceitacao: 0 mini seconds publishing element
+Info: RoleDescriptor:equipe_multifuncional: 16 mini seconds publishing element
+Info: WorkProductDescriptor:historia_de_usuario: 0 mini seconds publishing element
+Info: WorkProductDescriptor:teste_automatizado: 0 mini seconds publishing element
+Info: DeliveryProcess:ATDD: 250 mini seconds publishing element
+Info: DeliveryProcess:ATDD: 983 mini seconds publishing process specific layout data
+Info: CapabilityPattern:ATDD: 296 mini seconds publishing element
+Info: Phase:Apresentar: 265 mini seconds publishing element
+Info: TaskDescriptor:verificar_a_historia: 16 mini seconds publishing element
+Info: RoleDescriptor:product_owner: 0 mini seconds publishing element
+Info: RoleDescriptor:equipe_multifuncional: 0 mini seconds publishing element
+Info: WorkProductDescriptor:testes_realizados: 0 mini seconds publishing element
+Info: WorkProductDescriptor:alteracao_nos_testes_existentes: 0 mini seconds publishing element
+Info: WorkProductDescriptor:nova_historia: 16 mini seconds publishing element
+Info: Phase:Debater: 327 mini seconds publishing element
+Info: TaskDescriptor:historias_de_usuario: 16 mini seconds publishing element
+Info: RoleDescriptor:equipe_multifuncional: 0 mini seconds publishing element
+Info: RoleDescriptor:product_owner: 16 mini seconds publishing element
+Info: RoleDescriptor:outro: 0 mini seconds publishing element
+Info: WorkProductDescriptor:perguntas: 0 mini seconds publishing element
+Info: WorkProductDescriptor:historia_de_usuario: 0 mini seconds publishing element
+Info: Phase:Implementar: 421 mini seconds publishing element
+Info: TaskDescriptor:testes_unitarios: 16 mini seconds publishing element
+Info: RoleDescriptor:equipe_multifuncional: 0 mini seconds publishing element
+Info: WorkProductDescriptor:condicoes_propostas: 16 mini seconds publishing element
+Info: WorkProductDescriptor:expectativas_existentes: 0 mini seconds publishing element
 Info: WorkProductDescriptor:testes_executados: 20 mini seconds publishing element
-Info: WorkProductDescriptor:testes_realizados: 19 mini seconds publishing element
-Info: RoleDescriptor:equipe_multifuncional: 20 mini seconds publishing element
-Info: : Publishing time: 0 minutes 11 seconds
+Info: Phase:Refinar: 221 mini seconds publishing element
+Info: TaskDescriptor:organizar_os_testes_de_aceitacao: 0 mini seconds publishing element
+Info: RoleDescriptor:equipe_multifuncional: 15 mini seconds publishing element
+Info: WorkProductDescriptor:historia_de_usuario: 0 mini seconds publishing element
+Info: WorkProductDescriptor:teste_automatizado: 16 mini seconds publishing element
+Info: DeliveryProcess:ciclo: 234 mini seconds publishing element
+Info: DeliveryProcess:ciclo: 858 mini seconds publishing process specific layout data
+Info: CapabilityPattern:ATDD: 296 mini seconds publishing element
+Info: CustomCategory:category: 15 mini seconds publishing element
+Info: CustomCategory:etapas: 16 mini seconds publishing element
+Info: CustomCategory:ciclo: 16 mini seconds publishing element
+Info: : Publishing time: 0 minutes 15 seconds
